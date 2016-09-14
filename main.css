@@ -1,0 +1,26 @@
+selector {property: value;}
+.pagecontent {padding: 24px;}
+.pagecontent {padding-left: 50px;
+              padding-right: 50px}
+h1 {
+    font-family: courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 2em;
+    color: red;
+    }
+h2 {
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 2em;
+    color: chartreuse
+    }
+p, li {
+    font-family:verdana;
+    font-size: 18px;
+    color: dimgray
+    }
+li {
+    margin-bottom: 7px;
+    }
